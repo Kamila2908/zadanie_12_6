@@ -3,9 +3,6 @@ var countriesList = $('#countries');
 
 $('#search').click(searchCountries);
 
-function searchCountries() {
-    var countryName = $('#country-name').val();
-}
 
 function searchCountries() {
     var countryName = $('#country-name').val();
